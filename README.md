@@ -1,0 +1,2 @@
+# ArchitectureOptimizationProblems
+Test problems ported from jbussemaker/ArchitectureOptimizationExperiments with updated pymoo
