@@ -1,0 +1,5 @@
+numpy
+pymoo>=0.5.0
+pytest
+matplotlib
+git+https://github.com/jbussemaker/OpenTurbofanArchitecting.git@pymoo_050#egg=open_turb_arch
